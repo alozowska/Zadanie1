@@ -11,6 +11,9 @@ public class Zadanie1 {
         System.out.println("wszystko");
         System.out.println("jest");
         System.out.println("git");
+        System.out.println("jutro");
+        System.out.println("kolejne");
+        System.out.println("zajęcia");
 
 
 
